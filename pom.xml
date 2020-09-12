@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.numberword</groupId>
+  <artifactId>numberwordwithtests</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Numberword-with-tests</name>
+  <description>program that takes in an integer from 0-99999 and outputs the word for that integer</description>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/junit/junit -->
+
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13</version>
+    <scope>test</scope>
+</dependency>
+  </dependencies>
+</project>
