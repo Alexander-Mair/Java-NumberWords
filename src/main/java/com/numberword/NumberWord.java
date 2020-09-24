@@ -2,9 +2,7 @@ package com.numberword;
 
 public class NumberWord {
 	
-	public int addTwo(int N) {
-		return N+2;
-	}
+	
 	static String Units(int N)
     {
         String word = "";
